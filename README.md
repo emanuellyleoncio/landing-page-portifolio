@@ -22,7 +22,7 @@ Projeto finalizado :heavy_check_mark:
 
 ## Acesso
 
-O website pode ser acessado pelo seguinte link: 
+O website pode ser acessado pelo seguinte link: https://emanuellyleoncio.github.io/landing-page-portifolio/
 
 ## Demais informações
 
