@@ -1,0 +1,177 @@
+
+header {
+    padding: 64px 165px 0px 165px;
+}
+.header__section {
+    background-image: url("../../assets/portfolio/fylo/image-fylo-hero.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+
+}
+
+.head--port--color {
+    color: #5FB4A2;
+}
+
+.head--home--color {
+    color: #33323D;
+}
+
+.head--contato--color {
+    color: #33323D;
+}
+
+
+.header__section {
+    margin-bottom: 115px;
+}
+
+.section01, .section02 {
+    padding: 64px 165px 0px 165px;
+}
+
+
+.section01 {
+    display: flex;
+}
+
+.section__parte01_text01 {
+    width: 350px;
+
+}
+
+.section01 img {
+    height: 400px;
+    width: 635px;
+}
+
+.line {
+    border: 1px solid #33323D;
+    height: 0px;
+    opacity: 0.15;
+    width: 350px;
+}
+
+.section01__parte01 h1 {
+    font-size: 40px;
+    line-height: 42px;
+    margin-bottom: 29px;
+    margin-top: 48px;  
+}
+
+.section01__parte01 p {
+    margin-bottom: 53px;
+}
+.section01__parte01 span {
+    color: #5FB4A2;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+.section__parte01_text01 button {
+    border: 1px solid #33323D;
+    display: flex;
+    margin-top: 32px;
+    margin-bottom: 48px;
+    padding: 17px 50px;
+    
+}
+
+.section__parte01_text01 button:hover {
+    background: #33323D;
+    color: #FAFAFA;
+}
+
+.section01__parte02 {
+    margin-left: 50px;
+}
+
+.section01__parte02 h2 {
+    font-size: 32px;
+    line-height: 42px;
+    margin-bottom: 28px;
+
+}
+
+.section01__parte02 p {
+    margin-bottom: 40px;
+}
+
+.preview {
+    margin-bottom: 32px;
+}
+
+.section02__line {
+    border: 1px solid #33323D;
+    height: 0px;
+    width: 1040px;
+    opacity: 0.15;
+}
+
+.section02__conteudo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section02__conteudo img {
+    height: 16px;
+    width: 8px;
+}
+
+.section02__text {
+    display: flex;
+    margin: 32px 0px;
+}
+
+.section02__text h2 {
+    font-size: 32px;
+    line-height: 36px;
+}
+
+.section02__text__rigth {
+    margin-right: 700px;
+}
+
+.section02__text__left {
+    text-align: right;
+}
+
+.section02__text span {
+    color: #33323D;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    opacity: 0.5;
+}
+
+
+.contato {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-bottom: 150px;
+    margin-top: 150px;
+    padding: 0px 165px 0px 165px;
+}
+
+.contato h1 {
+    font-size: 40px;
+    line-height: 42px;
+    width: 367px;
+}
+
+.contato button {
+    border: 1px solid #33323D;
+    
+    padding: 17px 50px;
+}
+
+.contato button:hover {
+    background: #33323D;
+    color: #FAFAFA;
+}

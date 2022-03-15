@@ -1,0 +1,105 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #FAFAFA;
+}
+
+h1 {
+    color: #33323D;
+    font-family: 'Ibarra Real Nova', serif;
+    font-weight: 700;
+}
+
+a, button {
+    all:unset;
+    box-sizing: border-box;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    text-decoration: none;
+}
+
+p {
+    color: #33323D;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    opacity: 0.8;
+}
+
+h2 {
+    color: #33323D;
+    font-family: 'Ibarra Real Nova', serif;
+    font-weight: 400;
+}
+
+span {
+    font-family: 'Public Sans', sans-serif;
+}
+
+.header__head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    margin-bottom: 54px;
+}
+
+.head--home--color {
+    margin-right: 43px;
+}
+
+.head--contato--color {
+    margin-left: 43px;
+}
+
+footer {
+    background-color: #33323D;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+
+.footer__botao {
+    color: #FAFAFA;
+    display: flex;
+    margin-left: 165px;
+    margin-top: 28px;
+    margin-bottom: 28px;
+    
+}
+
+.footer__botao__links {
+    margin-left: 48px;
+    margin-top: 6px;
+   
+}
+
+.footer__icons {
+    margin-right: 165px;
+    
+}
+
+.footer__icons__git {
+    margin-right: 16px;
+}
+
+.footer__icons__tw {
+    margin-right: 16px;
+}
+
+.footer__botao__links__home {
+    margin-right: 42px;
+}
+
+.footer__botao__links__portifolio {
+    margin-right: 42px;
+}

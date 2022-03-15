@@ -1,0 +1,150 @@
+
+header {
+    padding: 64px 164px 0px 164px;
+}
+
+.head--port--color {
+    color: #33323D;
+}
+
+.head--home--color {
+    color: #5FB4A2;
+}
+
+.head--contato--color {
+    color: #33323D;
+}
+
+
+.header__section {
+    background-image: url("../../assets/home/image-homepage-hero.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+
+    display: flex;
+    align-items: flex-end;
+}
+
+.header__section__text {
+    background-color: #FAFAFA;
+    height: 357px;
+    width: 445px;
+
+}
+
+.header__section__text h1 {
+    font-size: 50px;
+    line-height: 50px;
+    margin: 56px 28px 53px 27px;
+
+}
+
+.header__section__text button {
+    color: #FFFFFF;
+    background-color: rgba(32, 57, 76, 0.9);
+    font-size: 12px;
+    font-weight: 400;
+    height: 48px;
+    line-height: 14px;
+    text-align: center;
+    width: 180px;
+
+    display: flex;
+    align-items: center;
+}
+
+.header__section__text button:hover {
+    background-color: rgb(95, 180, 162);
+}
+
+.header__section__button__frase {
+    margin-left: 30px;
+}
+
+.header__section__button {
+    background-color: rgb(0, 0, 0, 0.15);
+    height: 48px;
+    padding: 18px 16px;
+}
+
+.sobre {
+    display: flex;
+    justify-content: space-between;
+
+    margin-top: 149px;
+    padding: 0px 164px 0px 164px;
+}
+
+.sobre img {
+    width: 505px;
+}
+
+.sobre__descricao {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.line {
+    border: 1px solid #33323D;
+    height: 0px;
+    width: 430px;
+    opacity: 0.15;
+}
+
+.sobre__descricao_text {
+    height: 502px;
+    width: 430px;
+}
+
+.sobre__descricao_text h1 {
+    font-size: 40px;
+    line-height: 42px;
+    margin-bottom: 28px;
+    
+}
+
+.sobre__descricao_text button {
+    border: 1px solid #33323D;
+    margin-left: 113px;
+    margin-top: 24px;
+    padding: 17px 48px;
+}
+
+.sobre__descricao_text button:hover {
+    background: #33323D;
+    color: #FAFAFA;
+}
+
+.contato {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-bottom: 150px;
+    margin-top: 150px;
+    padding: 0px 164px 0px 164px;
+}
+
+.contato h1 {
+    font-size: 40px;
+    line-height: 42px;
+    width: 367px;
+}
+
+.contato button {
+    border: 1px solid #33323D;
+    
+    padding: 17px 50px;
+    
+}
+
+.contato button:hover {
+    background: #33323D;
+    color: #FAFAFA;
+}
+

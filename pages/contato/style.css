@@ -1,0 +1,124 @@
+.header__head {
+    padding: 64px 165px 0px 165px;
+}
+
+.head--port--color {
+    color: #33323D;
+}
+
+.head--home--color {
+    color: #33323D;
+}
+
+.head--contato--color {
+    color: #5FB4A2;
+}
+
+h1 {
+    font-size: 40px;
+    line-height: 42px;
+}
+
+.section01, .section02 {
+    padding: 0px 165px 0px 165px;
+
+}
+
+.line {
+    border: 1px solid #33323D;
+    height: 1px;
+    opacity: 0.15;
+    width: 1025px;
+}
+
+.section01__text {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.section01__parte01 {
+    margin-top: 54px;
+}
+
+.section01__parte02 {
+    margin-bottom: 48px;
+    margin-top: 54px;
+}
+
+.section01__parte02 p {
+    margin-bottom: 54px;
+    width: 635px;  
+}
+
+.section02__text {
+    display: flex;
+}
+
+.section02__parte01 {
+    margin-top: 54px;
+    margin-right: 125px;
+}
+
+.section02__parte02 {
+    margin-left: 125px;
+    margin-top: 54px;
+}
+
+.section02__parte02 label {
+    color: #33323D;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 30px;
+    opacity: 0.8;
+}
+
+.section02__parte02 input {
+    all: unset;
+    box-sizing: border-box;
+    background: rgba(51, 50, 61, 0.1);
+    
+    width: 635px;
+
+}
+
+.section02__parte02 input:focus {
+    border: 1px solid #000000;
+    
+}
+
+
+.input01, .input02, .input03 {
+    display: flex;
+    flex-direction: column;
+}
+
+.input01 input {
+    height: 48px;
+    margin-bottom: 24px;
+}
+
+.input02 input {
+    height: 48px;
+    margin-bottom: 24px;
+}
+
+.input03 input {
+    height: 96px;
+}
+
+.section02__parte02 button {
+    background: #203A4C;
+    color: #FFFFFF;
+    height: 48px;
+    margin-bottom: 109px;
+    margin-top: 24px;
+    padding: 17px 19.44px;
+    text-align: center;
+    width: 162px;
+}
+
+.section02__parte02 button:hover {
+    background: #5FB4A2;
+}
